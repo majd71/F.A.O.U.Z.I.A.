@@ -15,11 +15,6 @@ A personal, offline AI project named after Faouzia.
 
 ![Ears](ears.png)
 
-## 🔊 Listen to her voice
-Here is a short audio sample of F.A.O.U.Z.I.A. speaking:
-
-[🔊 Click here to download the audio](faouzia_ai_intro.mp3)
-
 ## 🎙️ What is this?
 F.A.O.U.Z.I.A. is a fully offline, voice-activated system assistant built on Linux (Fedora KDE). Inspired by AI systems like J.A,R.V.I.S./F.R.I.D.A.Y. from the Marvel universe, I wanted to build a local AI that monitors my laptop's health, manages security, and speaks with a natural voice.
 
