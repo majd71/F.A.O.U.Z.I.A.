@@ -49,3 +49,6 @@ I named her F.A.O.U.Z.I.A. because I am a fan of Faouzia.
 - [ ] Integrate Ollama for conversational intelligence.
 - [ ] Create a custom wake word ("Faouzia. you up?") using OpenWakeWord training.
 - [ ] Make her available on cross-devices
+
+for more information please contact:
+majd75connect@proton.me
