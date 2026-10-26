@@ -1,6 +1,12 @@
 # F.A.O.U.Z.I.A. (Fully Automated Operating Utility and Zenith Intelligence Assistant)
 A personal, offline AI project named after Faouzia. 
 
+## 📸 Screenshots
+
+![F.A.O.U.Z.I.A. HUD Design](PASTE_YOUR_IMAGE_LINK_HERE)
+
+![Terminal Code](PASTE_YOUR_SECOND_IMAGE_LINK_HERE)
+
 ## 🎙️ What is this?
 F.A.O.U.Z.I.A. is a fully offline, voice-activated system assistant built on Linux (Fedora KDE). Inspired by AI systems like J.A,R.V.I.S./F.R.I.D.A.Y. from the Marvel universe, I wanted to build a local AI that monitors my laptop's health, manages security, and speaks with a natural voice.
 
