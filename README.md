@@ -11,8 +11,6 @@ A personal, offline AI project named after Faouzia.
 
 ![Scan 2](scan2.png)
 
-![gaming](gaming.png)
-
 ![Ears](ears.png)
 
 ## 🎙️ What is this?
