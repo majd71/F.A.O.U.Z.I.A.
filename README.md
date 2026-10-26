@@ -3,7 +3,7 @@ A personal, offline AI project named after Faouzia.
 
 ## 📸 Screenshots
 
-![F.A.O.U.Z.I.A. HUD Design]((https://github.com/majd71/F.A.O.U.Z.I.A./blob/main/Faouzia_HUD.gif))
+![F.A.O.U.Z.I.A. HUD Design](Faouzia_HUD.gif)
 
 ![Terminal Code](PASTE_YOUR_SECOND_IMAGE_LINK_HERE)
 
